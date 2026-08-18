@@ -1,0 +1,13 @@
+{
+  "name": "greenhorizon-solar-crm",
+  "version": "1.0.0",
+  "description": "Advanced solar leads CRM with customer labeling, funneling, Facebook lead import, analytics, and password-protected dashboard.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "build": "node --check src/main.js"
+  },
+  "keywords": ["solar", "crm", "leads", "facebook", "pipeline"],
+  "author": "Green Horizon Solar",
+  "license": "MIT"
+}
